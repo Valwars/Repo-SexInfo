@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Repo-SexInfo/static/css/main.edb9c651.css",
+    "main.js": "/Repo-SexInfo/static/js/main.2054f04f.js",
+    "static/js/787.6d185335.chunk.js": "/Repo-SexInfo/static/js/787.6d185335.chunk.js",
+    "static/media/Montserrat-Bold.ttf": "/Repo-SexInfo/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/Repo-SexInfo/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/logosida.svg": "/Repo-SexInfo/static/media/logosida.b0931cdd9d76d6f0228457de9adabc51.svg",
+    "index.html": "/Repo-SexInfo/index.html",
+    "main.edb9c651.css.map": "/Repo-SexInfo/static/css/main.edb9c651.css.map",
+    "main.2054f04f.js.map": "/Repo-SexInfo/static/js/main.2054f04f.js.map",
+    "787.6d185335.chunk.js.map": "/Repo-SexInfo/static/js/787.6d185335.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edb9c651.css",
+    "static/js/main.2054f04f.js"
+  ]
+}
